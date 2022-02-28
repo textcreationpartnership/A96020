@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech of M. Peter Vowell, which he intended to have delivered (had he been permitted) upon the tenth of July, 1654. Being the day of his suffering death, in the place where Charing Cross once stood. Written by himself a little before his suffering. Published for general satisfaction.</title>
+            <author>Vowell, Peter, d. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96020</idno>
+            <idno type="STC">Wing V710</idno>
+            <idno type="STC">Thomason E805_4</idno>
+            <idno type="STC">ESTC R207378</idno>
+            <idno type="EEBO-CITATION">99866433</idno>
+            <idno type="PROQUEST">99866433</idno>
+            <idno type="VID">118707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118707)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 122:E805[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech of M. Peter Vowell, which he intended to have delivered (had he been permitted) upon the tenth of July, 1654. Being the day of his suffering death, in the place where Charing Cross once stood. Written by himself a little before his suffering. Published for general satisfaction.</title>
+                  <author>Vowell, Peter, d. 1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer MDCLIV. [1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vowell, Peter, d. 1654.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118707:1" rendition="simple:additions"/>
+            <p>The Laſt SPEECH OF M. Peter Vowell, Which he intended to have delivered (had he been permitted) upon the tenth of <hi>July,</hi> 1654. Being the day of his ſuffering death, in the place where Charing Croſs once ſtood. Written by himſelf a little before his Suffering.</p>
+            <p>
+               <hi>Publiſhed for general ſatisfaction.</hi>
+            </p>
+            <p>Printed in the Yeer MDCLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:118707:2"/>
+            <pb n="1" facs="tcp:118707:2"/>
+            <head>A True Copie of what was ſpoken, and intended to have been ſpoken (had he not been forbidden) by M. <hi>Peter Vowell,</hi> upon Munday the tenth of July, 1654. (on which day he ſuffered death in the place where Charing-Croſs ſtood) as from the Original paper writ<g ref="char:EOLhyphen"/>ten with his own hand appeareth.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>AT this earthly Bar from them that pretend to have a great meaſure of ſanctity, I had hard meaſure; but to that Bar I am now going, the Bar of heaven, I ſhall have juſtice, yea one day Juſtice againſt them, except they water their beds and couches with tears of Repentance.</p>
+            <p>The Court gave ſevere and raſh Judgement on my body, and ſent a pitiful fellow-(but a pitileſs fellow) that gave as raſh a Judgement of my ſoul; but that precious Jewel none of them could rouch to hurt.</p>
+            <p>The Souls under the Altar cry loud for vengeance long ago; how many more of late yeers have been
+<pb n="2" facs="tcp:118707:3"/> added to them to help the cry; the cry is loud of thoſe lately whoſe blood hath been unlawfully ſpilt; but vengeacne is Gods, and I will leave it to him.</p>
+            <p>The Court of my Tryal ſaid I was confident, and held it as a fault; He alſo whom they ſent to the Tower (I know not if to entrap me) under pretenſe to comfort my ſoul, told me alſo, I was confident; I ſay the ſame: and the ſame confidence I bring with me now, and by Gods aſſiſtance, I hope I ſhall carry it out of this world with my innocency.</p>
+            <p>Gentlemen Souldiers, Among the ancient and ſavage ſort of Heathen, they had a Law once every three, ſix, or twelve moneths to offer up a ſacrifice of humane blood to their God; and that their God was a Divel: Among us, whether heathen or not you beſt know, of late yeers we have had a fatal cuſtome, once in three, ſix, or twelve moneths to make not only a ſacrifice, but many ſacrifices of humane Chri<g ref="char:EOLhyphen"/>ſtian blood, our Scaffolds have reek'd and ſmok'd with the choyſeſt ſort of blood. But unto what God do you judge? What God is he that delights in the blood of man? <hi>Baal,</hi> the god of Ekron, <hi>Beelzebub,</hi> the god of Flyes.</p>
+            <p>Amongſt the Primitive Chriſtians that lived neer<g ref="char:EOLhyphen"/>eſt the time of our Saviour Chriſt, the greateſt Ty<g ref="char:EOLhyphen"/>rants and perſecutors of the Chriſtians lived; the perſecution was great, and yet the courage of thoſe perſecuted Chriſtians was ſo great, that it excelled the fury of the perſecutors; that they came in faſter to be kill'd, then they could kill; they offered their
+<pb n="3" facs="tcp:118707:3"/> bodies and throats ſo thick unto the ſlaughter, that the hands of the Tyrants were weary with killing; and yet <hi>Sanguinis Martirum,</hi> was <hi>Semen Eccleſiae,</hi> and many Heathens came in with the Chriſtians, ſee<g ref="char:EOLhyphen"/>ing their cheerful conſtancy, turned Chriſtians, and dyed Chriſtians, and dyed with them; the Chriſti<g ref="char:EOLhyphen"/>ans ſtill encreaſed the more.</p>
+            <p>Of late years here hath been a great perſecution in this Nation, and yet the ſufferers have been ſo many, and preſent themſelves ſo thick in the vindication of their King, Country, and Laws, that they ſtartled the very enemy himſelf; their conſtancy ſo great, that the eyes of their Judges dropped tears, whether real or true, let the Judge of Judges judge; They ſtill ſtand amazed at their conſtancy, though they exceed the old Heathens; Are not weary of killing.</p>
+            <p>Oh Souldiers! How many of you have bin brought up, and led on by blind Principles, wronged in your Education, or ſeduced by your, indiſcreet heedleſs and heady Teachers? How many of you young men have for ſome ſmall diſcontent departed from your loving Maſters, dear Friends, or tender Parents, and fled into the Army? How many of you driven by Ty<g ref="char:EOLhyphen"/>ranous oppreſſion, poverty, or cruelty, have left your dear wives and children? And ſome for novelty or wantonneſs adhere to this employment, not conſider<g ref="char:EOLhyphen"/>ing the great danger of ſpilling innocent blood.</p>
+            <p>How many of you have drawn your Swords you do not know for what? How many of you keep drawn your ſwords, you do not know for what? You have
+<pb n="4" facs="tcp:118707:4"/> put to death a pious and juſt King, and in his ſtead have reared up even another <hi>Jeroboam,</hi> that makes <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> to ſin: What his goodneſs is, you beſt know: You have put down a good old Law, and reared up another of your own to judge the people by; my cal<g ref="char:EOLhyphen"/>ling for the benefit of the former, and for the equity even of your own Law, I am in part condemned here to dy. Be you Judge of the proceedings.</p>
+            <p>How many of you have had a hand in putting down the ancient true Church, and raiſed up in your own imaginations a new one? But alas! You know not what you do; if you did, you would grieve to ſee what a glorious Church you have ruined: you would never have pulled down the hedges, and broken down the fences, that the wild beaſt of the Forreſt ſhould come in, that the little foxes ſhould devour; and the wilde Boar ſhould root out ſo ſtately a Vine.</p>
+            <p>When the <hi>Jewes</hi> were led into captivity, their good<g ref="char:EOLhyphen"/>ly and magnificent Temple was burnt; but in proceſs of time, they obtained favour amongſt the Heathen Kings they dwelt amongſt, and had liberty where<g ref="char:EOLhyphen"/>with to rebuild: rebuild they did, and finiſhed a ſe<g ref="char:EOLhyphen"/>cond Temple, at which ſight all the young men rejoy<g ref="char:EOLhyphen"/>ced to ſee ſo gallant a Temple, but the old men wept to ſee how far different and ſhort the ſecond Temple was from the glory of the firſt: So you young men rejoyce at your imaginary Church, but the old men me thinks I ſee ſome weep, (Oh weep not for me) weep for your Countrey, weep to ſee Religion, Liber<g ref="char:EOLhyphen"/>ty and Laws taken from you, weep to ſee ſo many
+<pb n="5" facs="tcp:118707:4"/> good men ſnatcht away, but indeed from the miſeries to come, and weep for what your unhappy ſelves will ſuffer.</p>
+            <p>Souldiers, however you flouriſh for a time, and per<g ref="char:EOLhyphen"/>haps many of you may rejoyce at our deaths, but be<g ref="char:EOLhyphen"/>lieve it, as <hi>Sampſon</hi> pull'd the houſe of the <hi>Philiſtims</hi> down when he fell: ſo ſhall we give you and your Cauſe a greater blow by our deaths, than living we poſſible could have done. You may for a time flou<g ref="char:EOLhyphen"/>riſh, but remember what our Saviour ſaid, <hi>All you that make uſe of the Sword, ſhall periſh by the Sword, you ſhall be cut down like the graſs, and wither away like the green herbs.</hi>
+            </p>
+            <p>But do you behold yonder glorious place? Do you behold the ſpangled Heavens, where the holy Angels dwell, where God himſelf is rounded with thrones, Principalities, Powers, and the Celeſtial Spirits of juſt men, when the Trump ſhall blow, when the dead ſhall riſe at the dreadful day of judgement? How will you anſwer all your Rapes and Murthers? Do you think your hands that have been bathed in the blood of your King, the blood of ſo many of your eminent Counrrey-men ſo unjuſtly, they have been bathed in the blood of many of your friends, your kindred, per<g ref="char:EOLhyphen"/>haps your Parents, can ever reach yonder glorious place without repentance? Oh no, repent now there<g ref="char:EOLhyphen"/>fore, it is not too late, ſhake off your Bloody <hi>Prote<g ref="char:EOLhyphen"/>ctor,</hi> reſcue your ancient Lawes, and call in your Royal young PRINCE, whom you have long enough wronged; Make your Addreſſes to the great Protector of Heaven and Earth, and deſire him as I
+<pb n="6" facs="tcp:118707:5"/> now do for my ſelf for a Pardon, for a Pardon for all your former and preſent tranſgreſſions.</p>
+            <p>I dye an obedient Son of the Church of <hi>England,</hi> and with a dutiful heart to the KING, and deſire that none preſent that loves him, will be disheartned by my death, but continue faithful to the end.</p>
+            <p>And ſo farewel, I forgive all the world, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
